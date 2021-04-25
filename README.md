@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <img width="500px" src="http://mech-lang.org/img/logo.png">
+</p>
+
+I'm currently working on Mech, a language for developing **data-driven**, **reactive** systems like animations, games, and robots. It makes **composing**, **transforming**, and **distributing** data easy, allowing you to focus on the essential complexity of your problem. 
 
 <!--
 **cmontella/cmontella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
