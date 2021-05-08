@@ -2,7 +2,7 @@
   <img width="500px" src="https://gitlab.com/mech-lang/assets/-/raw/main/images/logo.png">
 </p>
 
-I'm currently working on Mech, a language for developing **data-driven**, **reactive** systems like animations, games, and robots. It makes **composing**, **transforming**, and **distributing** data easy, allowing you to focus on the essential complexity of your project. Learn more about it here: https://github.com/mech-lang/mech
+I'm currently working on Mech, a language for developing **data-driven**, **reactive** systems like animations, games, and robots. It makes **composing**, **transforming**, and **distributing** data easy, allowing you to focus on the essential complexity of your project. Learn more about Mech here: https://github.com/mech-lang/mech
 
 <!--
 **cmontella/cmontella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
