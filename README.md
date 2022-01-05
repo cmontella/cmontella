@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500px" src="https://gitlab.com/mech-lang/assets/-/raw/main/images/logo-embossed.png">
+  <img width="500px" src="https://camo.githubusercontent.com/3ba20fc324c2bc8f94ce976adc8fa0ca5208193fbfb0ec8b4e5800817f36539d/687474703a2f2f6d6563682d6c616e672e6f72672f696d672f6c6f676f2e706e67">
 </p>
 
 I'm currently working on Mech, a language for developing **data-driven**, **reactive** systems like animations, games, and robots. It makes **composing**, **transforming**, and **distributing** data easy, allowing you to focus on the essential complexity of your project. Learn more about Mech here: https://github.com/mech-lang/mech
