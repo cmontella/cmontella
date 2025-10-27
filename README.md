@@ -4,7 +4,11 @@
 
 I'm currently working on Mech, a programming language for developing **data-driven**, **reactive** systems like animations, games, and robots. It makes **composing**, **transforming**, and **distributing** data easy, allowing you to focus on the essential complexity of your project. 
 
-Learn more about Mech here: https://github.com/mech-lang/mech
+Learn more about Mech here: https://github.com/mech-lang/mech | Try Mech online here: https://try.mech-lang.org | Read the docs here: https://docs.mech-lang.org
+
+
+
+
 
 <!--
 **cmontella/cmontella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
