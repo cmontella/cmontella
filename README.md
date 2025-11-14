@@ -4,7 +4,9 @@
 
 I'm currently working on Mech, a programming language for developing **data-driven**, **reactive** systems like animations, games, and robots. It makes **composing**, **transforming**, and **distributing** data easy, allowing you to focus on the essential complexity of your project. 
 
+<p align="center">
 [Try Mech online](https://try.mech-lang.org) | [Read the docs](https://docs.mech-lang.org) | [Download the code](https://github.com/mech-lang/mech)
+</p>
 
 
 
