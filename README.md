@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="50px" src="https://gitlab.com/mech-lang/assets/-/raw/v0.2-beta/images/mika/hello.png?ref_type=heads">
+  <img width="300px" src="https://gitlab.com/mech-lang/assets/-/raw/v0.2-beta/images/mika/hello.png?ref_type=heads">
   <img width="500px" src="http://mech-lang.org/img/logo.png">
 </p>
 
